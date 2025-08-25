@@ -1,0 +1,20 @@
+rclone --config ../rclone.conf copy ~/Documents/Personal/kodak-express_james-slide-scans_2022-11-26_1643.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Documents/Personal/kodak-express_00009861_2022-12-09_1502.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Documents/Personal/kodak-express_00009982_2022-12-17_1553.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Documents/Personal/twitter-2022-11-12-7fc98a93b337dee152781a5758cdc731c4752edea2719b33975b3d4831205661.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Documents/Personal/MyFitbitData.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Downloads/kodak-express_00010857_2023-05-26_0951.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Downloads/pixave_slides-001-jpg_2023-05-25_1333.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Downloads/facebook-floehopper-03_02_2025-g2aleWaH.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Downloads/facebook-floehopper-06_02_2025-M9y5k1dK.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Downloads/WhatsApp\ Chat\ -\ Alluring\ Arctic\ Patrons.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Downloads/fosstodon.org-archive-20250427190846-660b878014618a1268f85c2069c363b1.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Downloads/indieweb.social-archive-20250427191247-7fab129ee7d138bccb5bccb49f13f9e1.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Downloads/fosstodon.org-archive-20250427184808-b98430cd685c984bcb098e9570e91d03.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Downloads/mas.to-archive-20250427191048-7f49c67f1563183d999632a75aaef7ca.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Downloads/mastodon.social-archive-20250427190846-660b878014618a1268f85c2069c363b1.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Documents/Personal/fitbit_export_20230316.csv --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Documents/Personal/2022-06-13-flickr-backup-data-download-1.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Documents/Personal/2022-06-13-flickr-backup-data-download-2.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Documents/Personal/2022-06-13-flickr-backup-data-download-3.zip --progress s3:backups.jamesmead.org/
+rclone --config ../rclone.conf copy ~/Documents/Personal/2022-06-13-flickr-backup-data-download-4.zip --progress s3:backups.jamesmead.org/
